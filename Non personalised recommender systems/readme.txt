@@ -26,19 +26,19 @@ User Demographics: Demographic information about the users; this is a comma sepa
 
 Table of Content:
 
-[1. Reading Dataset]
+1. Reading Dataset
 
-[2. Basic Exploration]
+2. Basic Exploration
 
-[3. Merging Movie information to ratings dataframe]
+3. Merging Movie information to ratings dataframe
 
-[4. Non Personalised Recommender Systems using average ratings]
+4. Non Personalised Recommender Systems using average ratings
 
-[5. Non Personalised Recommender Systems using number of ratings or rating count]
+5. Non Personalised Recommender Systems using number of ratings or rating count
 
-[6. Non Personalised Recommender Systems using count of ratings 4 and above]
+6. Non Personalised Recommender Systems using count of ratings 4 and above
 
-[7. Weak Personalisation using Gender Information]
+7. Weak Personalisation using Gender Information
 
 
 
