@@ -24,7 +24,7 @@ This data has been cleaned up - users who had less than 20 ratings or did not ha
 
 
 
-Table of Content:
+# Table of Content:
 
 1. Reading Dataset
 
