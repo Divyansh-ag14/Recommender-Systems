@@ -1,11 +1,11 @@
-Movielens - 100K Dataset
+# Movielens - 100K Dataset
 
 MovieLens 100K dataset has been a standard dataset used for benchmarking recommender systems for more than 20 years now and hence this provides a good point to start our learning journey 
 for recommender systems. For non commercial personalised recommendations for movies you can check out the website: https://movielens.org/
 
 This data set consists of: 100,000 ratings (1-5) from 943 users on 1682 movies. 
-    			   Each user has rated at least 20 movies. 
-			   Simple demographic info for the users (age, gender, occupation, zip)
+Each user has rated at least 20 movies. 
+Simple demographic info for the users (age, gender, occupation, zip)
 
 The data was collected through the MovieLens web site (movielens.umn.edu) during the seven-month period from September 19th, 1997 through April 22nd, 1998. 
 This data has been cleaned up - users who had less than 20 ratings or did not have complete demographic information were removed from this data set. 
